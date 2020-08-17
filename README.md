@@ -1,0 +1,2 @@
+# My-Data-Science-Portfolio
+This is my data science portolio that shows data science projects that I have worked on. In these projects I show case my skills and expertise in the generalised and specialised parts of data science.From Exploratory Data analysis, Feature engineering, ML  engineering to OOP programming. It gives sufficient proof to recruiters and potential employers of knowledge and skills needed to work as a data scientist.
