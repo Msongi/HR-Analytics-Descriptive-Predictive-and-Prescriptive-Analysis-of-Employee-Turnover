@@ -1,2 +1,4 @@
-# My-Data-Science-Portfolio
-This is my data science portolio that shows data science projects that I have worked on. In these projects I show case my skills and expertise in the generalised and specialised parts of data science.From Exploratory Data analysis, Feature engineering, ML  engineering to OOP programming. It gives sufficient proof to recruiters and potential employers of knowledge and skills needed to work as a data scientist.
+# HR Analytics: Descriptive, Predictive and Prescriptive Analysis of Employee Turnover
+Company X has an attrition or employee turnover problem. Employee turnover is a serious problem for a company, it costs the company approximately 20% of that employee's salary to replace them. Not to mention the time and loss in productivity. Company X's HR department has given some data about their employees both existing employees and those who left. They want to have insights as to why employees are leaving, but most importantly they want a predictive model to say which employees are likely to leave.
+
+In this project we are going to do 1. Prescriptive Analytics 2. Descriptive Analytics 3. Predictive Analytics to help solve Company X's problem. An extensive Exploratory Data Analysis will be seen in this solution
