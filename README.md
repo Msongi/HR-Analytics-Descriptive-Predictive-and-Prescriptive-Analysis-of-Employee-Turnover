@@ -15,5 +15,13 @@ Involuntary attrition through position elimination is the most common form of at
 
 **Organizational development is a critical process that should be monitored with the right HR metrics**. 
 
+The annual overall turnover rate in the U.S. in 2017 was 26.3%, based on the Bureau of Labor Statistics.
+The cost of replacing an individual employee can range from one-half to two times the employee's annual salary -- and that's a conservative estimate.
+So, a 100-person organization that provides an average salary of $50,000 could have turnover and replacement costs of approximately $660,000 to $2.6 million per year.
+
+Fifty-two percent of voluntarily exiting employees say their manager or organization could have done something to prevent them from leaving their job. Over half of exiting employees (51%) say that in the three months before they left, neither their manager nor any other leader spoke with them about their job satisfaction or future with the organization.
+
+Evidently Attrition is a bi problem which needs to be solved.
+
 In this project we are going to do 1. Prescriptive Analytics 2. Descriptive Analytics 3. Predictive Analytics to help solve Company X's problem. An extensive Exploratory Data Analysis will be seen in this solution
 
