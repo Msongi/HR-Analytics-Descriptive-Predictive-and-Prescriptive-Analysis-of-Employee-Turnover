@@ -21,7 +21,7 @@ So, a 100-person organization that provides an average salary of $50,000 could h
 
 Fifty-two percent of voluntarily exiting employees say their manager or organization could have done something to prevent them from leaving their job. Over half of exiting employees (51%) say that in the three months before they left, neither their manager nor any other leader spoke with them about their job satisfaction or future with the organization.
 
-Evidently Attrition is a bi problem which needs to be solved.
+Evidently Attrition is a big problem which needs to be solved.
 
 In this project we are going to do 1. Prescriptive Analytics 2. Descriptive Analytics 3. Predictive Analytics to help solve Company X's problem. An extensive Exploratory Data Analysis will be seen in this solution
 
